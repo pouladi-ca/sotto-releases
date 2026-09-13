@@ -2,5 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Sotto for Mac</title>
+    <item>
+      <title>Sotto 1.0 (6)</title>
+      <pubDate>Sun, 13 Sep 2026 15:40:50 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pouladi-ca/sotto-releases/releases/download/mac-1.0-6/Sotto-1.0-6.zip" sparkle:edSignature="gpBz4c1dU/uBOZkgPujEx47iSXpaieCxUaJYrk/acdekFYFPup90pkZ031eLX2MDAj+T+8Qhyolt96IiPcqUCQ==" length="4707050" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
