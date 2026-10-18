@@ -162,5 +162,13 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/pouladi-ca/sotto-releases/releases/download/mac-1.0-27/Sotto-1.0-27.zip" sparkle:edSignature="1mgtocvs8/lyDx2GsoFj06YKTceFAvBzKFw2RZwrdqBeQtOQGkm/+79PnntkLVkTtw68BIkhq03nL6T4O4/oBg==" length="6806492" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Sotto 1.0 (28)</title>
+      <pubDate>Sun, 18 Oct 2026 22:38:10 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/pouladi-ca/sotto-releases/releases/download/mac-1.0-28/Sotto-1.0-28.zip" sparkle:edSignature="GFJ9ZvDa5JVsa3E5jvLNc1InmyDkmB6JkK+1q+wc+LqbtIA3fQ35JKcNfqkb0zYTM5DRkF/Xj/1Q8wKnk0LKDA==" length="6815704" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
